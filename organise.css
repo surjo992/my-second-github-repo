@@ -1,0 +1,14 @@
+p {
+    color: blueviolet;
+    background-color: bisque;
+    width: 50%;
+    height: auto;
+    border: 5px solid green;
+
+}
+
+h5 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+
+}
